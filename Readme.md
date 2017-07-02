@@ -5,7 +5,7 @@ The programs code were written around year 2010-12.
 Since these tools were written when I was in my 9-10th standard, they don't follow any standard coding practise and even documentation is missing. I am adding whatever I can recall, you might need to recompile from source to make them usable again.
 
 ## The Collection
-------------------
+
 ### [Process Killer](Process_Killer)
 A very usefull tool to restore your computer in a certain state - You can simply take a snapshot of processes and with a click of button you can kill any new processes created after the snapshot. It can also prevent any new processes from creating. 
 You can read more about it [here](Process_Killer).
@@ -27,7 +27,7 @@ Program which can shutdown your machine without asking and waiting for anything 
 A small server based on HTTP Server, It could stream your computer's screen over network, which can be accessed over any standard browser.
 
 # Directory structure
---------------
+
 - `build` each project has its own build directory which contains an old compiled executable.
 - `src` contains source code of the compiled binary. 
 
